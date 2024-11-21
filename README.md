@@ -1,4 +1,5 @@
 # Netflix Movies and TV Shows Data Analysis Project Using SQL
+![Netflix]([Image URL or Path](https://github.com/sunilvermann/SQL_Netflix_Project/blob/main/netflix_logo.png))
 
 ## Project Overview
 
